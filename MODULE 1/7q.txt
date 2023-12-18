@@ -1,0 +1,15 @@
+What is the purpose of "Physical Data Independence" in a DBMS?
+
+Did you like the problem?
+9 users found this helpful
+Select one of the following options.
+To prevent users from accessing data physically.
+To allow users to modify physical storage directly.
+To ensure that changes in physical storage don't affect users' logical view of data.
+To require users to understand the physical structure of the data.
+Status:
+Great job, keep it up!
+
+Correct Answer:
+
+To ensure that changes in physical storage don't affect users' logical view of data.

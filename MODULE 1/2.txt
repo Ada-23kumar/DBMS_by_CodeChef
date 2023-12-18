@@ -1,0 +1,8 @@
+Select one of the following options.
+There was concurrent access by multiple users.
+This let to data inconsistency.
+This is a Security problem in file systems. Ideally - the Administrator and the Course coordinator should not have access to the Results file.
+The course coordinator carried out partial updates in the data - this is the course coordinator's fault.
+
+ans
+There was concurrent access by multiple users.

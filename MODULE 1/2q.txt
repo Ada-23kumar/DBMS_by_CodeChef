@@ -1,0 +1,12 @@
+Select one of the following
+Reduce data security
+Increase data Redundancy
+Increase Data Quality
+Status:
+Perfect answer!
+
+Correct Answer:
+
+Increase Data Quality
+Explanation:
+One source of truth - one source means that we can prevent data errors increasing the overall quality of the data.

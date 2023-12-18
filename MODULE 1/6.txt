@@ -1,0 +1,15 @@
+Select one of the following options
+Handling user authentication and access control.
+Storing and organizing data in tables.
+Determining the efficiency of data storage on disk.
+Defining how users interact with the system and impacting performance.
+Status:
+You got it right!
+
+Correct Answer:
+
+Defining how users interact with the system and impacting performance.
+Explanation:
+The DBMS architecture plays a crucial role in determining how users interact with the database system and how the system performs. It outlines the arrangement of components, their relationships, and the overall structure of the system. The architecture influences factors such as data access efficiency, security measures, scalability, and the overall effectiveness of data management. It is a fundamental aspect of designing, developing, implementing, and maintaining a robust and efficient database management system. Therefore, understanding the DBMS architecture is essential for creating a database system that aligns with the organization's requirements and objectives.
+
+

@@ -1,0 +1,26 @@
+Which of the following statements are correct?
+2-Tier Architecture is cheaper than 3-Tier Architecture
+3-Tier Architecture is the most simple architecture to set up, as only a single machine is required to maintain it.
+3-Tier Architecture can be easily deployed, and hence it is mostly used in small projects. 
+3-Tier Architecture maintains Data Integrity.
+Since there is a middle layer between the client and the server, data corruption can be avoided/removed.
+Status:
+Well done, it’s correct!
+
+Correct Answer(s):
+
+2-Tier Architecture is cheaper than 3-Tier Architecture
+3-Tier Architecture maintains Data Integrity.
+Since there is a middle layer between the client and the server, data corruption can be avoided/removed.
+Explanation:
+Advantages of 2-Tier Architecture
+- Easy to Access: 2-Tier Architecture makes easy access to the database, which makes fast retrieval.
+- Scalable: We can scale the database easily, by adding clients or upgrading hardware.
+- Low Cost: 2-Tier Architecture is cheaper than 3-Tier Architecture and Multi-Tier Architecture.
+- Easy Deployment: 2-Tier Architecture is easier to deploy than 3-Tier Architecture.
+- Simple: 2-Tier Architecture is easily understandable as well as simple because of only two components.
+
+Advantages of 3-Tier Architecture
+- Enhanced scalability: Scalability is enhanced due to the distributed deployment of application servers. Now, individual connections need not be made between the client and server.
+- Data Integrity: 3-Tier Architecture maintains Data Integrity. Since there is a middle layer between the client and the server, data corruption can be avoided/removed.
+- Security: 3-Tier Architecture Improves Security. This type of model prevents direct interaction of the client with the server thereby reducing access to unauthorized data.

@@ -1,0 +1,13 @@
+Select one of the following
+Increase Data Security
+Increase data Redundancy
+Increase cost of managing the system
+Increase the integrity of the data
+Status:
+You got it right!
+
+Correct Answer:
+
+Increase data Redundancy
+Explanation:
+Duplicate entries of the same data in multiple files leads to data redundancy.

@@ -1,0 +1,18 @@
+You are writing some queries on a DBMS, you are getting the results of the query very fast everytime!
+Can you guess what type of Database Architecture the system is built on?
+
+Did you like the problem?
+2 users found this helpful
+Select one of the following options.
+Single Tier
+Two Tier
+Three Tier
+Anyone will work the same way
+Status:
+You got it right!
+
+Correct Answer:
+
+Single Tier
+Explanation:
+Since the Data Base and the application is hosted on the same machine, the latency between request and response is very less!

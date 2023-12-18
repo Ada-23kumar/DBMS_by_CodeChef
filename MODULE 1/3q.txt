@@ -1,0 +1,19 @@
+Database management System allows specific users to access specific part of the database.
+This capability is not available if you are using File System.
+
+The above statement refers to the database ability to
+
+Did you like the problem?
+4 users found this helpful
+Select one of the following
+Limit Access control
+Increase data Redundancy
+Recover damage or lost data
+Allows multiple access to the database
+Correct Answer:
+
+Limit Access control
+Explanation:
+Depending on user permissions - you can give specific users access to specific sections of database.
+
+Access can also be defined by read / write / edit.

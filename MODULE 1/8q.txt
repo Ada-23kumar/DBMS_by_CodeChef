@@ -1,0 +1,19 @@
+Suppose you have the API end point of getting all the delicious food data of Chef's Kitchen.
+You are not an admin but want to sneak in.
+You soon make a fetch request, but encounter a "Access Denied" message.
+
+Did you like the problem?
+1 user found this helpful
+Can you tell what type of Database Architecture is Chef Using?
+Single Tier
+Two Tier
+Three Tier
+Any of the DBMS Architecture will throw the same message.
+Status:
+You got it right!
+
+Correct Answer:
+
+Three Tier
+Explanation:
+Only in a three tier architecture you can add an API middleware to check whether the user has an access to the data base. You can add only restricted people who can access the DB! 

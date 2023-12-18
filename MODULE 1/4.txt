@@ -1,0 +1,15 @@
+Question: In a database system, which feature is responsible for ensuring that multiple users can access and modify the data simultaneously without causing inconsistencies?
+
+Query optimization
+Data integrity constraints
+Concurrency control
+File storage management
+Status:
+Perfect answer!
+
+Correct Answer:
+
+Concurrency control
+Explanation:
+Concurrency control in database systems ensures multiple users can modify data simultaneously without conflicts. It manages transactions to prevent issues like data corruption. In file systems, concurrent access is less controlled, leading to potential data inconsistencies when multiple users modify files concurrently. Concurrency control is a key advantage of databases over file systems, ensuring data integrity in multi-user scenarios.
+

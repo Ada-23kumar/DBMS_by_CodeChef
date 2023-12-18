@@ -1,0 +1,14 @@
+Select the correct order in which the user-data interaction takes place in a DBMS.
+
+Select the two flows: From the user to the database and the database to the user.
+Logical Level to View Level to Physical Level
+Physical Level to Logical Level to View Level
+Logical Level to Physical Level to View Level
+View Level to Logical Level to Physical Level
+Status:
+Perfect answer!
+
+Correct Answer(s):
+
+Physical Level to Logical Level to View Level
+View Level to Logical Level to Physical Level

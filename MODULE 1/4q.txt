@@ -1,0 +1,15 @@
+Which Data Abstraction Level would you provide to the end-users, i.e., people who are not developers or system admins?
+
+[Popular Interview Question]
+VIEW Level
+LOGICAL LEVEL
+PHYSICAL Level
+Any of the above will work
+Status:
+Hooray, you did it!
+
+Correct Answer:
+
+VIEW Level
+Explanation:
+It should be view level, this is the outer most level of the data abstraction in DBMS, hence the most secure one, and this is just a view of the data in desired format, no changes can be made from this level.

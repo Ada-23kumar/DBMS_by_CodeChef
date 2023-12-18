@@ -1,0 +1,8 @@
+Select one of the following options.
+All is well! Just fix the roll number in the Student file and we are done.
+Disaster! There is inconsistent data between the Student file and the Subject file.
+Disaster! There is inconsistent data between the Student file and the Result file.
+
+ans
+Disaster! There is inconsistent data between the Student file and the Result file.
+

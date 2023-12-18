@@ -1,0 +1,14 @@
+Apart from the 6 things that you just saw, what else should have its separate database?
+
+
+Select all that apply.
+
+Order history
+Price Data Base
+Search Histroy Data Base
+Product Category Data Base
+
+ans
+Order history
+Search Histroy Data Base
+Product Category Data Base

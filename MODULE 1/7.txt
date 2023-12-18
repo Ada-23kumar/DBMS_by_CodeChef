@@ -1,0 +1,11 @@
+Which of the following has the highest level of security?
+Single Tier DBMS Architecture
+Two Tier DBMS Architecture
+Three Tier DBMS Architecture
+All the above have same level of security
+Status:
+Hooray, you did it!
+
+Correct Answer:
+
+Three Tier DBMS Architecture

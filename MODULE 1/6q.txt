@@ -1,0 +1,19 @@
+Chefina was working in the kitchen with some delicious food data.
+She was using file systems for storing and retrieving them, Chef came in and adviced her to use some sort of a database?
+What do you think could be the probable reason?
+
+Did you like the problem?
+2 users found this helpful
+Select all that apply.
+Files cannot store data but Data Bases can
+File systems cannot support multiple users simultaneously accessing the data, but a DB can
+Since their kitchen has a lot of food data, and will also keep getting biggest, files systems sruggles with scalability, thus a Database is a better choice
+Their kitchen needs fast access to the food data, using file systems will need more time compared to use a Data Base
+Status:
+Excellent work!
+
+Correct Answer(s):
+
+File systems cannot support multiple users simultaneously accessing the data, but a DB can
+Since their kitchen has a lot of food data, and will also keep getting biggest, files systems sruggles with scalability, thus a Database is a better choice
+Their kitchen needs fast access to the food data, using file systems will need more time compared to use a Data Base

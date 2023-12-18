@@ -1,0 +1,18 @@
+Suppose Chef is upgrading his hard drives, he is smart enough to have multiple copies of the same data, so that during maintenance, his application isn't down.
+
+He changes one of his old hard drives to SSDs, for quick access.
+What do you think is most appropriate for Chef to do?
+
+Did you like the problem?
+4 users found this helpful
+Select one of the following options
+Chef needs to write all the APIs and re-design the user interface once he changes his hardware and loads all the data.
+Chef needs to make changes only to his APIs after his hardware change.
+Chef can just make the change, load the data and go to his kitchen to make a new dish!
+Chef needs to re deisgn the entire application from scratch.
+Status:
+Great job, keep it up!
+
+Correct Answer:
+
+Chef can just make the change, load the data and go to his kitchen to make a new dish!
