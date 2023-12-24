@@ -1,0 +1,13 @@
+Which entity would have a "Due Date" attribute?
+Book
+Member
+Borrow
+Both Book and Member
+Status:
+Excellent work!
+
+Correct Answer:
+
+Borrow
+Explanation:
+The "Due Date" attribute is found within the "Borrow" entity. This attribute serves to capture the specific date by which a book that has been borrowed must be returned to the library. It essentially denotes the deadline for returning the borrowed item.

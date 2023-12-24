@@ -1,0 +1,11 @@
+In a library database, what is the purpose of data modeling?
+To design the physical layout of the library building.
+To create a blueprint for organizing information in the database.
+To develop marketing strategies for promoting the library.
+To calculate fines for overdue books.
+
+Correct Answer:
+
+To create a blueprint for organizing information in the database.
+Explanation:
+Data modeling involves structuring data in a way that helps understand its organization, relationships, and attributes within a database system. It's like creating a blueprint to manage and access data effectively.

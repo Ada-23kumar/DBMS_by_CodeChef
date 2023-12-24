@@ -1,0 +1,14 @@
+Select the correct options as applicable.
+Everything is perfect.
+The key attribute is incorrect - it should be 'Shipped_items'
+The key attribute is incorrect - it should be 'Item number'
+Weight and dimensions are 2 separate attributes.
+They cannot be in a single column.
+Status:
+Great job, keep it up!
+
+Correct Answer(s):
+
+The key attribute is incorrect - it should be 'Item number'
+Weight and dimensions are 2 separate attributes.
+They cannot be in a single column.

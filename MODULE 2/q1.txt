@@ -1,0 +1,15 @@
+Select the correct options as applicable.
+A - (i), B - (ii), C - (iv), D - (iii)	
+A - (ii), B - (iii), C - (i), D - (iv)
+A - (i), B - (ii), C - (iii), D - (iv)
+A - (ii), B - (iii), C - (iv), D - (i)
+Status:
+You got it right!
+
+Correct Answer:
+
+A - (ii), B - (iii), C - (iv), D - (i)
+Explanation:
+Shipped items have a relationship with the transport event.
+
+Retail centers DO NOT have any relationship with the transport event.

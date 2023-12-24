@@ -1,0 +1,13 @@
+What type of relationship exists between "Book" and "Member" entities?
+One-to-One
+One-to-Many
+Many-to-One
+Many-to-Many
+Status:
+Awesome, you nailed it!
+
+Correct Answer:
+
+Many-to-Many
+Explanation:
+A "Book" can be borrowed by multiple "Members," and each "Member" can borrow multiple "Books."

@@ -1,0 +1,14 @@
+Which of the following possible relations will NOT hold if the above ERD is mapped into a relation model?
+
+Person (NID, Name)
+Qualification (NID, ExamID, QualifiedDate)
+Exam (ExamID, NID, ExamName)
+Exam (ExamID, ExamName)
+Status:
+Hooray, you did it!
+
+Correct Answer:
+
+Exam (ExamID, NID, ExamName)
+Explanation:
+If we convert an ER diagram into relational model then we can create table for each entity. We get two tables One for Entity Person - Person(NID,Name) One for Entity Exam - Exam(ExamID,ExamName) Now for relationship Entity Qualification, we can not add QualifiedDate in any of the two tables formed so we need to create a new table using Primary Key from both Entity Person and Entity Exam. We obtain Qualification(NID, ExamID, QualifiedDate) Hence Option (C) does not make any sense.

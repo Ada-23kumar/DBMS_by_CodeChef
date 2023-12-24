@@ -1,0 +1,13 @@
+Which one of the following is used to represent the supporting many-one relationships of a weak entity set in an entity-relationship diagram ?
+Rectangles with double/bold border
+Diamonds with double/bold border
+Ovals containing underlined identifiers
+Ovals with double/bold border
+Status:
+Well done, it’s correct!
+
+Correct Answer:
+
+Diamonds with double/bold border
+Explanation:
+The relationship symbol in case of existance of one weak entity is represented by double diamond.

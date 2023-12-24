@@ -1,0 +1,13 @@
+If we wish to store information about the rent payment to be made by person (s) occupying different hotel rooms, then this information should appear as an attribute of?
+Person
+Hotel Room
+Lodging
+Any one of these entities can hold the rent attribute.
+Status:
+Hooray, you did it!
+
+Correct Answer:
+
+Lodging
+Explanation:
+According to given E-R diagram, Hotel Room contain all the information about Hotel Room and Person contain all information related to Person. So when any person do a payment for rent of room will be stored inside Lodging relation, since it is connected two entities.

@@ -1,0 +1,26 @@
+Which of the following statements is true?
+The maximum participation of B in the relationship is M
+Every entry in B is associated with at least one entry in A
+Every entry in A is associated with at exactly one entry in B
+The minimum participation of A in the relation is 0
+Status:
+Excellent work!
+
+Correct Answer(s):
+
+The maximum participation of B in the relationship is M
+Every entry in A is associated with at exactly one entry in B
+Explanation:
+For A, we can say the following
+- Both minimum and maximum participation is 1 since A has a many to one relation with B and complete participation in the relation
+
+For B, we can say the following
+- Minimum participation is 0 and Maximum participation is M
+
+The maximum participation of B in the relationship is M    - this is correct
+    
+Every entry in B is associated with at least one entry in A - this is incorrect since we know that B has participated partially in the relation.
+    
+Every entry in A is associated with at exactly one entry in B - this is correct since we know that A has participated totally. 
+    
+The minimum participation of A in the relation is 0 - this is correct since we know that A has participated totally. 

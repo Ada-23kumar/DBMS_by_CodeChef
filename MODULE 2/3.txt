@@ -1,0 +1,17 @@
+What happens if we delete the 'Sports shoes' node?
+The entire root node 'Shoes' will get deleted.
+The parent node 'Kids shoes' will get deleted.
+Only the node 'Casual' will get deleted.
+Nothing - you cannot delete or edit any nodes in the Hierarchial structure.
+Status:
+Excellent work!
+
+Correct Answer:
+
+Only the node 'Casual' will get deleted.
+Explanation:
+Whenever any node is deleted - that node and its subsequent child nodes will get deleted.
+
+Hence - 'Shoes' and 'Kids shoes' will remain unaffected as they are the parent nodes.
+
+Only 'Casuals' will get deleted. 

@@ -1,0 +1,13 @@
+Select the correct options as applicable.
+Option 1
+Option 2
+Status:
+Great job, keep it up!
+
+Correct Answer:
+
+Option 1
+Explanation:
+Shipped items have a relationship with the transport event.
+
+Retail centers DO NOT have any relationship with the transport event.

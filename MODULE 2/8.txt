@@ -1,0 +1,17 @@
+In an e-commerce database system, consider the entities "Customer," "Order," "Product," and "ShippingAddress." Each customer is identified by a unique "Customer ID" key attribute. Each order is uniquely identified by an "Order ID" key attribute. Each product has a unique "Product Code" key attribute, and each shipping address is identified by a "Address ID" key attribute.
+
+Given the scenario described above, which of the following represents a 1:1 relationship?
+Each customer can place one order.
+Each order can contain multiple products.
+Each product has multiple customer reviews.
+Each customer has one default shipping address.
+Status:
+Excellent work!
+
+Correct Answer:
+
+Each customer has one default shipping address.
+Explanation:
+In a 1:1 (one-to-one) relationship, one instance of an entity is related to exactly one instance of another entity. In this scenario, each customer (one instance) can have only one default shipping address (one instance), making it a 1:1 relationship. 
+
+While "Each customers can place one order" is a false statement, and the other two, each order can contain multiple products, and a product may have multiple customer reviews, are not examples that represent a 1:1 relationship.

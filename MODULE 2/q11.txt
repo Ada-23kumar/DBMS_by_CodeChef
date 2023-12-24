@@ -1,0 +1,13 @@
+hat is the min and max number of tables required to convert an ER diagram with 2 entities and 1 relationship between them with partial participation constraints of both entities?
+Min 1, Max 2
+Min 2, Max 3
+Min 1, Max 3
+Min 2, Max 2
+Status:
+You got it right!
+
+Correct Answer:
+
+Min 2, Max 3
+Explanation:
+Maximum number of tables required is 3 in case of many to many relationships between entities. Minimum number of tables is 1 in case of unary relationship and total participation of atleast one entity. But in case of partial participation of both entities, minimum number of tables required is 2.

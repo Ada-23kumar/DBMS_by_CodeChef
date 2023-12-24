@@ -1,0 +1,13 @@
+Which data model represents the logical structure of a database using entities, attributes, and relationships, and provides a visual representation through diagrams?
+Hierarchical Model
+Relational Model
+Network Model
+Entity-Relationship (ER) Model
+Status:
+Awesome, you nailed it!
+
+Correct Answer:
+
+Entity-Relationship (ER) Model
+Explanation:
+The Entity-Relationship (ER) Model represents the logical structure of a database using entities to represent objects, attributes to describe characteristics, and relationships to define associations between entities. ER diagrams visually depict these components and their interactions.

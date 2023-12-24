@@ -1,0 +1,11 @@
+In the Entity-Relationship (ER) model, what does an oval symbol represent?
+Entity
+Attribute
+Relationship
+Key
+Status:
+Awesome, you nailed it!
+
+Correct Answer:
+
+Attribute

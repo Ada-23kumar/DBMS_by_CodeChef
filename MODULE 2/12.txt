@@ -1,0 +1,16 @@
+Select the correct options as applicable.
+Everything is perfect.
+One 'Shipped_item' can travel through multiple Retail centers - this is incorrect.
+As per the ER diagram - One 'retail_center' can hold only one 'shipped_item' while one 'shipped_item' can travel through multiple 'retail_center'. This is incorrect.
+Status:
+Excellent work!
+
+Correct Answer:
+
+As per the ER diagram - One 'retail_center' can hold only one 'shipped_item' while one 'shipped_item' can travel through multiple 'retail_center'. This is incorrect.
+Explanation:
+This needs to be a many to many relationship.
+
+One retail center will hold multiple shipped_items.
+
+Similarly - any shipped_item will travel through multiple retail centers.

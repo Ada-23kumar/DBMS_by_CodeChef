@@ -1,0 +1,14 @@
+Which data structure would you use to perform operations in a Network model?
+Arrays
+Dictionary
+Linked List
+Circular Linked list
+Status:
+Well done, it’s correct!
+
+Correct Answer:
+
+Circular Linked list
+Explanation:
+The circular linked list is used to perform operations on the network model. 
+The present position is kept up to date as we traverse through the records based on the relationship.

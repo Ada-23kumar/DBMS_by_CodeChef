@@ -1,0 +1,24 @@
+In an Entity-Relationship (ER) model, suppose R is a many-to-one relationship from entity set E1 to entity set E2. Assume that E1 and E2 participate totally in R and that the cardinality of E1 is greater than the cardinality of E2.
+
+Which one of the following is true about R?
+Every entity in E1 is associated with exactly one entity in E2.
+Some entity in E1 is associated with more than one entity in E2.
+Every entity in E2 is associated with exactly one entity in E1.
+Every entity in E2 is associated with at most one entity in E1.
+Status:
+Perfect answer!
+
+Correct Answer:
+
+Every entity in E1 is associated with exactly one entity in E2.
+Explanation:
+The things we have are:
+- Many to One Relationship.
+- Cardinality of E1 is more than that of E2.
+- A Total Participation.
+
+Since we have E1 to E2 relationship, and it is a Many to One relationship, thus it will always have to be exactly one entity in E2 thus option B and D are eliminated. 
+
+And since, it's a total participation and cardinality of E1 is more, then option C cannot be true. 
+
+Thus A is correct!

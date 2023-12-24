@@ -1,0 +1,13 @@
+How would you represent the relationship between "Book" and "Member" in an ER diagram?
+ Diamond shape connecting "Book" and "Member"
+Double-line connecting "Book" and "Member"
+Single-line connecting "Book" and "Member"
+No connection between "Book" and "Member"
+Status:
+Awesome, you nailed it!
+
+Correct Answer:
+
+ Diamond shape connecting "Book" and "Member"
+Explanation:
+We have a relationship between the two, hence a diamond!

@@ -1,0 +1,14 @@
+In an Entity-Relationship (ER) model, which of the following concepts involves creating a more specific entity type that inherits attributes and relationships from a more general entity type?
+Total Particiation
+Aggregation
+Specialization
+Generalization
+Status:
+Awesome, you nailed it!
+
+Correct Answer:
+
+Specialization
+Explanation:
+Specialization in an ER model refers to the process of creating a more specific entity type (sub-entity) that inherits attributes and relationships from a more general entity type (super-entity). This allows for the representation of more specific characteristics while maintaining common attributes and relationships. Generalization, on the other hand, is the reverse process, where a more general entity type is created from more specific entity types. Aggregation involves combining entities to form a higher-level entity. Cardinality refers to the number of instances that participate in a relationship.
+In object-oriented programming (OOP), specialization refers to the process of creating a more specific or subtype class that inherits from a

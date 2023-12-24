@@ -1,0 +1,23 @@
+The minimum number of tables needed to represent M, N, P, R1, R2 is:
+2
+3
+4
+5
+Status:
+Great job, keep it up!
+
+Correct Answer:
+
+3
+Explanation:
+For strong entities M and P, separate tables should represent each. To handle total many-to-one and one-to-many relationship sets efficiently, enhance the "many" side by adding an extra attribute that carries the primary key of the corresponding "one" side. This sidesteps the need for extra tables to portray relationship sets.
+
+In this situation, adjust table M to incorporate the primary key of entity P (P1). Concurrently, since entity N is a weak entity, modify it to encompass the primary key of entity P (P1).
+
+Consequently, an optimized schema emerges with a minimal of three tables:
+
+- M (M1, M2, M3, P1)
+- P (P1, P2)
+- N (P1, N1, N2)
+
+Remember, this technique applies efficiently to relationship sets without attributes. When attributes are present, a separate table for the relationship set becomes essential.

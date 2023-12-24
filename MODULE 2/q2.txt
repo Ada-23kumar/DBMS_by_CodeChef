@@ -1,0 +1,17 @@
+Select one of the following.
+1 : N
+M : N
+N : 1
+1 : 1
+Status:
+Excellent work!
+
+Correct Answer:
+
+M : N
+Explanation:
+A grocery store can sell one or more product type.
+
+Similarly, one product can be available in one or more grocery stores.
+
+Hence - we get a M : N cardinality.

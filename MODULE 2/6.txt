@@ -1,0 +1,15 @@
+In a university database system, consider the following entities: "Student," "Course," and "Department." Each student is uniquely identified by a "Student ID" key attribute. Each course has a unique "Course Code" key attribute. Each department is identified by a "Department Code" key attribute.
+
+Which of the following attributes is best represented as a multivalued attribute for the "Student" entity in this context?
+Student Name
+Student ID
+Course Enrolled
+Department Name
+Status:
+Well done, it’s correct!
+
+Correct Answer:
+
+Course Enrolled
+Explanation:
+In the given university database scenario, a student can be enrolled in multiple courses. Therefore, the attribute "Courses Enrolled" should be represented as a multivalued attribute for the "Student" entity. Each student can have multiple values (course codes) associat

@@ -1,0 +1,15 @@
+Which one of the options given below refers to the degree (or arity) of a relation in relational database systems?
+Number of attributes of its relation schema.
+Number of tuples stored in the relation.
+Number of entries in the relation.
+Number of distinct domains of its relation schema.
+Status:
+You got it right!
+
+Correct Answer:
+
+Number of attributes of its relation schema.
+Explanation:
+The degree (or arity) of a relation in a relational database system refers to the number of attributes (or fields) of its relation schema. Therefore, Option A is the correct answer.
+
+The degree is a fundamental property of the relation that does not change with the number of tuples/rows stored in the relation, or with the number of entries in the relation. Moreover, the degree does not directly depend on the number of distinct domains of its relation schema.
