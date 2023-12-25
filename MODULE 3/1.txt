@@ -1,0 +1,22 @@
+To the relation "Students" you want to add a new attribute, "EMAIL", which of the following seems true? 
+
+Mark all that applies.
+The number of rows will increase.
+The number of columns will increase.
+The total number of cells will increase.
+We cannot add a new attribute once a table is created.
+Status:
+Perfect answer!
+
+Correct Answer(s):
+
+The number of columns will increase.
+The total number of cells will increase.
+Explanation:
+The number of rows will remain fixed as we aren't changing the number of students.
+
+The number of columns will increase as we are added a new column.
+
+On adding a new column, the total count of cells will also increase.
+
+We can always add a column even after the table is created using SQL queries. 

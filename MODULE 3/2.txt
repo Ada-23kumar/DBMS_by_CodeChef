@@ -1,0 +1,15 @@
+Consider a database that stores information about employees and their projects. The "Employees" table has attributes "Employee_ID," "Employee_Name," and "Marital_Status," while the "Projects" table has attributes "Project_ID," "Project_Name," and "Employee_ID" (foreign key referencing Employee_ID). Based on the provided information, answer the following question:
+
+What type of integrity ensures that there are no duplicate Employee_ID values in the "Employees" table?
+Referential Integrity
+Entity Integrity
+Domain Integrity
+Key Integrity
+Status:
+Well done, it’s correct!
+
+Correct Answer:
+
+Entity Integrity
+Explanation:
+Entity Integrity ensures that each record in a table is unique and distinct, preventing duplicate rows. In the context of the "Employees" table, Entity Integrity guarantees that each employee has a unique Employee_ID. Referential Integrity pertains to maintaining relationships between tables, Domain Integrity enforces valid data entries, and Key Integrity is not a standard term in this context.

@@ -1,0 +1,28 @@
+Let's take a small question to test your understanding!
+
+Student ID	Course Code	Semester	Grade
+101	CSCI101	Fall	A
+102	MATH201	Spring	B
+103	CSCI101	Fall	B
+101	MATH201	Spring	A
+104	MATH201	Fall	C
+Did you like the problem?
+3 users found this helpful
+Which of the following is true?
+Student ID can be a primary key.
+Student ID and Semester can be a composite key.
+Course Code cannot be a Candidate key.
+Student ID and Course Code can be a composite key.
+Status:
+Wrong Answer
+
+Correct Answer(s):
+
+Student ID and Semester can be a composite key.
+Course Code cannot be a Candidate key.
+Student ID and Course Code can be a composite key.
+Explanation:
+- There is repeated data in the student ID, hence it cannot be a primary key.
+- A combination of Student ID and Semester is always unique, it can be a composite key. 
+- Course ID attribute has similar value for to different entries, hence cannot be a candidate key. 
+- A combination of Student ID and Course Code is always unique, it can be a composite key. 
