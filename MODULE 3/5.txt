@@ -1,0 +1,13 @@
+Select the correct option.
+A
+B
+C
+D
+Status:
+Well done, it’s correct!
+
+Correct Answer:
+
+A
+Explanation:
+In an inner join, only the matching records between both tables are selected, based on the common attribute. It combines data where the attribute values exist in both tables. In the context of this exercise, an inner join between the "Employees" and "Projects" tables will retrieve the names of employees along with the names of projects they are assigned to. Only employees who are assigned to projects will appear in the result.

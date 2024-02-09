@@ -1,0 +1,13 @@
+Select the correct option.
+A
+B
+C
+D
+Status:
+Great job, keep it up!
+
+Correct Answer:
+
+D
+Explanation:
+This exercise involves a combination of a selection (?) and an inner join operation. It requires selecting employees who work in the "IT" department and then performing an inner join with the "Projects" table to retrieve the project names they are assigned to.

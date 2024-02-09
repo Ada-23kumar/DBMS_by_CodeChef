@@ -1,0 +1,19 @@
+Which of the following relational algebra statements are correct regarding getting the roll no and department of the students who score more than 80% marks?
+A
+B
+C
+D
+Status:
+Excellent work!
+
+Correct Answer:
+
+C
+Explanation:
+Let's see a Projection Query first: 
+π(Roll No, Department)(Table consisting of students whose marks are greater than 80%)
+
+And we use the selection query to get the table of students whose marks are more than 80%. Which will be:
+σ(Marks > 80)(Students)
+
+So merging the two we get: π(Roll No, Department)(σ(Marks > 80)(Students))
